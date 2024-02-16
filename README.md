@@ -1,2 +1,3 @@
 # OrderInventory_Microservices_Communication
 Order-Inventory_Microservices_Communication
+try to do communicate between 2 microservices using Direct Exchange
